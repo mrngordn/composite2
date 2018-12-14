@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 299" style="enable-background:new 0 0 300 299;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:24px;}
+	.st8{letter-spacing:1;}
+	.st9{fill:#EC6B65;}
+</style>
+<g id="icons_x2F_colours">
+</g>
+<g id="buttons">
+	<g id="log-in_button">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="74.5" x2="300" y2="74.5">
+			<stop  offset="0" style="stop-color:#43A5F3"/>
+			<stop  offset="0.204" style="stop-color:#439FF3"/>
+			<stop  offset="0.3877" style="stop-color:#4395F3"/>
+			<stop  offset="0.5106" style="stop-color:#4290F2"/>
+			<stop  offset="0.6524" style="stop-color:#4082F1"/>
+			<stop  offset="0.8035" style="stop-color:#3D6BEE"/>
+			<stop  offset="0.9601" style="stop-color:#394BEA"/>
+			<stop  offset="0.9944" style="stop-color:#3843E9"/>
+		</linearGradient>
+		<rect y="24.5" class="st3" width="300" height="100"/>
+		<text transform="matrix(1 0 0 1 114 83.5)" class="st0 st6 st7 st8">Log In</text>
+	</g>
+</g>
+</svg>

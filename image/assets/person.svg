@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 299" style="enable-background:new 0 0 300 299;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:#EC6B65;}
+</style>
+<g id="icons_x2F_colours">
+	<g id="person">
+		<g id="head">
+			<path d="M148.5,173c-12.3,0-23.4-5-31.5-13s-13-19.2-13-31.5s5-23.4,13-31.5s19.2-13,31.5-13s23.4,5,31.5,13s13,19.2,13,31.5
+				s-5,23.4-13,31.5S160.8,173,148.5,173z M148.5,90c-10.6,0-20.2,4.3-27.2,11.3S110,117.9,110,128.5s4.3,20.2,11.3,27.2
+				s16.6,11.3,27.2,11.3s20.2-4.3,27.2-11.3s11.3-16.6,11.3-27.2s-4.3-20.2-11.3-27.2S159.1,90,148.5,90z"/>
+		</g>
+		<g id="body">
+			<path d="M69.2,216c1.6-13.5,10.9-25.6,25.3-34.3s33.8-14.3,55.4-14.6c20.8-0.4,39.9,4.9,54.4,13.7s24.3,21.2,26.3,35.2l-6.1,0.1
+				c-0.9-5.5-3.3-10.9-7-15.8s-8.7-9.5-15-13.5c-6.9-4.4-14.9-7.9-23.4-10.2S161.4,173,152,173c-0.3,0-0.7,0-1,0s-0.7,0-1,0
+				c-20,0.4-37.9,5.2-51.2,12.9s-22,18.3-23.6,30.2L69.2,216z"/>
+		</g>
+	</g>
+</g>
+<g id="buttons">
+</g>
+</svg>

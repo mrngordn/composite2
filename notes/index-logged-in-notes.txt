@@ -1,0 +1,106 @@
+  <?php
+            
+        
+            include "../html/includes/header.html"; 
+    
+			include "connection.php";
+
+    
+    
+            //starts session
+    
+            //creates a session named "userName"
+			$user=$_SESSION["userName"];
+
+            
+            /*SQL select statement. This particular statement is used to pull 
+            all the data from the users table for the logged in user
+            */
+			$sql="SELECT * FROM users WHERE userN='$user'";
+
+    
+            //mysqli_query function is used to execute a query
+			$result=mysqli_query($con,$sql);
+            
+            
+            while($row=mysqli_fetch_assoc($result))
+			
+            {
+				echo "<h1 class='headingMsg'> What can we help you find ". $row['fname'] . " ".  $row['lname']  ."?</h1>";
+                
+                
+                echo "Name : " . $row['fname'] . " " . $row['lname']. "<br>";
+                echo "Username: ". $row['userN']. "<br>";
+                
+			
+			}
+    
+    	       echo "<a href='updateForm.php'>Update Profile</a>&nbsp;&nbsp;&nbsp;";
+
+				echo "<a href='logout.php'>Logout </a>";
+
+
+			mysqli_close($con);
+
+		?>
+
+
+<?php
+    
+			include "connection.php";
+
+    
+    
+            //starts session
+    
+            //creates a session named "userName"
+			$user=$_SESSION["userName"];
+
+            
+            /*SQL select statement. This particular statement is used to pull 
+            all the data from the users table for the logged in user
+            */
+			$sql="SELECT * FROM users WHERE userN='$user'";
+
+    
+            //mysqli_query function is used to execute a query
+			$result=mysqli_query($con,$sql);
+
+
+			while($row=mysqli_fetch_assoc($result)): ?>
+
+
+    <?php endwhile; 
+        
+			mysqli_close($con);
+
+
+           include "../html/includes/headermain.html"; 
+
+		?>
+
+CITY SEARCH EACHO DATA FOR DIV
+
+    '<div class="col-lg-4 col-sm-6 portfolio-item">';
+    echo
+          '<div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400 " alt="Apartment Picture"></a>';
+    echo        
+        '<div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Project Two</a>
+              </h4>';
+    echo
+        '<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+          </div>
+        </div>';
+        
+        
+    };
+
+
+
+
+
+
